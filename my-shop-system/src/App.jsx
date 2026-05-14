@@ -48,7 +48,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>AI Shopping Mall</h1>
+      <h1 color="black">AI Shopping Mall</h1>
 
       <input
         type="text"
