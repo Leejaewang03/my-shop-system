@@ -50,9 +50,4 @@ https://main.d13oj71asa86hv.amplifyapp.com
 ---
 
 ## 시연 영상
-
-### Github Actions CI/CD 시연 영상
-(유튜브 링크 작성)
-
-### AWS Amplify 배포 시연 영상
-(유튜브 링크 작성)
+https://youtu.be/Ib2_AIJZswU
